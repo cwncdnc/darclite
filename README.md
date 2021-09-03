@@ -5,6 +5,6 @@ Parts required:
 
 -Arduino Whatever
 
--HC-SR14 Ultrasonic Ping Module
+-HC-SR04 Ultrasonic Ping Module
 
 -Two white LEDs
